@@ -38,7 +38,7 @@ object frmMain: TfrmMain
         Align = alTop
         Anchors = []
         Caption = 'Server'
-        ClientHeight = 27
+        ClientHeight = 26
         ClientWidth = 277
         TabOrder = 0
         object edtServerAddress: TEdit
@@ -72,7 +72,7 @@ object frmMain: TfrmMain
         Align = alTop
         AutoSize = True
         Caption = 'Method'
-        ClientHeight = 30
+        ClientHeight = 29
         ClientWidth = 277
         TabOrder = 1
         object cbMethod: TComboBox
@@ -105,7 +105,7 @@ object frmMain: TfrmMain
         Width = 279
         Align = alClient
         Caption = 'Params'
-        ClientHeight = 132
+        ClientHeight = 131
         ClientWidth = 277
         TabOrder = 2
         object edtParams: TEdit

@@ -38,7 +38,7 @@ interface
 
 uses
   Classes, SysUtils, Forms, Controls, Graphics, Dialogs, ExtCtrls, StdCtrls,
-  Strutils, Spin, fpjson, opensslsockets, fphttpclient;
+  Strutils, fpjson, opensslsockets, fphttpclient;
 
 type
 

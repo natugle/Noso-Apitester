@@ -1,0 +1,80 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: formmain.rsformcaption
+msgid "Noso API Tester"
+msgstr ""
+
+#: formmain.rsmethodaddress
+msgid ""
+"Method Address returns: balance,incoming,outgoing of the specified addresses.\n"
+"\n"
+"Parameters: Address\n"
+msgstr ""
+
+#: formmain.rsmethodblock
+msgid ""
+"Method Block returns: number, timestart, timeend, timetotal, last20, totaltransactions, difficulty, target, solution, lastblockhash, nextdifficulty, miner, feespayed, reward of the specified block.\n"
+"\n"
+"Parameters: Block Number\n"
+msgstr ""
+
+#: formmain.rsmethodblockorders
+msgid ""
+"Method BlockOrders returns: a list of the orders on the specified block.\n"
+"\n"
+"Parameters: Block Number\n"
+msgstr ""
+
+#: formmain.rsmethodmainnet
+msgid ""
+"Method MainNet returns: lastblock, lastblockhash, headershash, summaryhash, pending, supply.\n"
+"\n"
+"Parameters: -\n"
+msgstr ""
+
+#: formmain.rsmethodorder
+msgid ""
+"Method Order returns: timestamp, block, receiver, amount, reference of the specified order.\n"
+"\n"
+"Parameters: Order ID\n"
+msgstr ""
+
+#: formmain.rstexthintparams
+msgctxt "formmain.rstexthintparams"
+msgid "Params"
+msgstr ""
+
+#: tfrmmain.btnsend.caption
+msgid "Send"
+msgstr ""
+
+#: tfrmmain.checkbox1.caption
+msgid "Alt. Server"
+msgstr ""
+
+#: tfrmmain.edtserveraddress.text
+msgid "explorer.nosocoin.com"
+msgstr ""
+
+#: tfrmmain.edtserveraddress.texthint
+msgid "Server Address"
+msgstr ""
+
+#: tfrmmain.gbmethod.caption
+msgid "Method"
+msgstr ""
+
+#: tfrmmain.gbparams.caption
+msgctxt "tfrmmain.gbparams.caption"
+msgid "Params"
+msgstr ""
+
+#: tfrmmain.gbserver.caption
+msgid "Server"
+msgstr ""
+
+#: tfrmmain.lblhelp.caption
+msgid "Help"
+msgstr ""
+
